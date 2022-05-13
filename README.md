@@ -1,14 +1,15 @@
 
-  # E-Commerce back End
-  
-  # Table of Contents
+# E-Commerce Back End
 
-  1. [Description](#Description)
-  2. [License](#License)
+# Table of Contents
 
-  
-  ## Description 
-    This is a class project that required the use of MySQL2, Sequelize and dotenv in a node application. I had to created teh database models, associations, complete the routes, seed the database and sync sequelize to it. The following User Story and Acceptance Criteria were provided along with the starter code.
+1. [Walkthrough Video](#Walkthrough)
+2. [Description](#Description)
+3. [License](#License)
+
+## [Walkthrough Video](https://drive.google.com/file/d/1_MdkHj1iAW1mbce1PLsO6uHGvHDiNhDT/view)  
+## Description 
+  This is a class project that required the use of MySQL2, Sequelize and dotenv in a node application. I had to created teh database models, associations, complete the routes, seed the database and sync sequelize to it. The following User Story and Acceptance Criteria were provided along with the starter code.
 
 [Starter Code](https://github.com/coding-boot-camp/fantastic-umbrella)
 
